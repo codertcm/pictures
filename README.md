@@ -1,2 +1,2 @@
 # pictures
-store pictures
+stores pictures
